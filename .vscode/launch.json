@@ -1,0 +1,238 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StackOverflowTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.exerception.test.StackOverflowTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "ProdutoTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.polimorfismo.test.ProdutoTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "FuncionarioTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.classesabstratas.test.FuncionarioTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "ClienteTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.Kenum.test.ClienteTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.crufuncionarios.test.Main",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "AnimeTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.sobrescrita.test.AnimeTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "HerancaTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.herança.test.HerancaTest02",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "HerancaTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.herança.test.HerancaTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "SistemaTest",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.exercicio.test.SistemaTest",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "LeituraDoTecladoTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.associacao.test.LeituraDoTecladoTest02",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "EscolaTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.associacao.test.EscolaTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "JogadorTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.associacao.test.JogadorTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "JogadorTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.associacao.test.JogadorTest02",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "JogadorTest03",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.associacao.test.JogadorTest03",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "LeituraDoTecladoTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.associacao.test.LeituraDoTecladoTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "AnimeTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.blocosinicializacao.test.AnimeTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "AnimeTest01(1)",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.construtores.test.AnimeTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "CarrosTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.introducaoclasses.test.CarrosTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "EstudanteTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.introducaoclasses.test.EstudanteTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "ProfessorTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.introducaoclasses.test.ProfessorTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.introducaometodos.test.CalculadoraTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.introducaometodos.test.CalculadoraTest02",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest03",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.introducaometodos.test.CalculadoraTest03",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest04",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.introducaometodos.test.CalculadoraTest04",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "CalculadoraTest05",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.introducaometodos.test.CalculadoraTest05",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "EstudanteTest01(1)",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.introducaometodos.test.EstudanteTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "EstudanteTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.introducaometodos.test.EstudanteTest02",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "FuncionarioTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.introducaometodos.test.FuncionarioTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "PessoaTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.introducaometodos.test.PessoaTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "AnimeTest01(2)",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.modificadorestatico.test.AnimeTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "CarroTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.modificadorestatico.test.CarroTest01",
+            "projectName": "javinha_c234cbba"
+        },
+        {
+            "type": "java",
+            "name": "AnimeTest01(3)",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.sobrecargametodos.test.AnimeTest01",
+            "projectName": "javinha_c234cbba"
+        }
+    ]
+}
