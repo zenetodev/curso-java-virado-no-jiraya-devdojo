@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExceptionTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.exception.exceptiontest.ExceptionTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
             "name": "StackOverflowTest01",
             "request": "launch",
             "mainClass": "academy.devdojo.maratonajava.javacore.exerception.test.StackOverflowTest01",
