@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DateFormatTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.dates.test.DateFormatTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "DateTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.dates.test.DateTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "LoginExceptionTest",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.exception.exceptiontest.test.LoginExceptionTest",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
             "name": "ExceptionTest01",
             "request": "launch",
             "mainClass": "academy.devdojo.maratonajava.javacore.exception.exceptiontest.ExceptionTest01",
