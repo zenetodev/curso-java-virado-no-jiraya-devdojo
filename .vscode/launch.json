@@ -6,6 +6,223 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SimpleFileVisitorTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.NIO.test.SimpleFileVisitorTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "DirectoryStreamTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.NIO.test.DirectoryStreamTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "PosixFileAttributesTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.NIO.test.PosixFileAttributesTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "DosFileAttributesTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.NIO.test.DosFileAttributesTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "BasicFileAttributesTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.NIO.test.BasicFileAttributesTest02",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "BasicFileAttributes",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.NIO.test.BasicFileAttributes",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "RelativizeTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.NIO.test.RelativizeTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "PathTest03",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.NIO.test.PathTest03",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "NormalizeTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.NIO.test.NormalizeTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "PathTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.NIO.test.PathTest02",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "FileTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.IO.test.FileTest02",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "BufferedWriterTest",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.IO.test.BufferedWriterTest",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "FileReaderTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.IO.test.FileReaderTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "FileWriterTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.IO.test.FileWriterTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "FileTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.IO.test.FileTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "ScannerTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.regex.test.ScannerTest02",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "PatternMatcherTest05",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.regex.test.PatternMatcherTest05",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "PatternMatcherTest04",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.regex.test.PatternMatcherTest04",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "PatternMatcherTest03",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.regex.test.PatternMatcherTest03",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "PatternMatcherTest02",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.regex.test.PatternMatcherTest02",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "DateTimeFormatterTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.formatacao.test.DateTimeFormatterTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "ZoneTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.dates.test.ZoneTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "TemporalAdjustersTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.dates.test.TemporalAdjustersTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "ChronoUnitTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.dates.test.ChronoUnitTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "DurationTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.dates.test.DurationTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "InstantTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.dates.test.InstantTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "LocalTimeTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.dates.test.LocalTimeTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "LocalDateTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.dates.test.LocalDateTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "SimpleDateFormatTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.formatacao.test.SimpleDateFormatTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "NumberFormatTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.formatacao.test.NumberFormatTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
+            "name": "LocaleTest01",
+            "request": "launch",
+            "mainClass": "academy.devdojo.maratonajava.javacore.dates.test.LocaleTest01",
+            "projectName": "javinha_bec64b8f"
+        },
+        {
+            "type": "java",
             "name": "DateFormatTest01",
             "request": "launch",
             "mainClass": "academy.devdojo.maratonajava.javacore.dates.test.DateFormatTest01",

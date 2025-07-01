@@ -16,7 +16,6 @@ public class WrapperTest01 {
         Integer intW = 1; // Autoboxing
         Long longW = 10L;   
         Float floatW = 10f;
-        Double doubleW = 100;
         Character charW = 'W';
         Boolean booleanW = false;
 

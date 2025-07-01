@@ -1,6 +1,7 @@
-package academy.devdojo.maratonajava.javacore.dates.test;
+package academy.devdojo.maratonajava.javacore.formatacao.test;
 
 import java.text.DateFormat;
+import java.text.NumberFormat;
 import java.util.Calendar;
 
 
@@ -15,8 +16,17 @@ public class DateFormatTest01 {
         df[4] = DateFormat.getDateInstance(DateFormat.MEDIUM);
         df[5] = DateFormat.getDateInstance(DateFormat.LONG);
         df[6] = DateFormat.getDateInstance(DateFormat.FULL);
-        for (DateFormat dateFormat : df) {
-            System.out.println(dateFormat.format(c.getTime()));
+        double valor = 1_000.2130;
+        NumberFormat[] nfa = new NumberFormat[] {
+            NumberFormat.getInstance(),
+            NumberFormat.getCurrencyInstance(),
+            NumberFormat.getPercentInstance()
+        };
+
+        for (NumberFormat numberFormat : nfa) {
+            System.out.println(numberFormat.getMaximumFractionDigits());
+            numberFormat.setMaximumFractionDigits(2);
+            System.out.println(numberFormat.format(valor));
         }
     }
 }
